@@ -4,11 +4,11 @@ Source : https://www.kaggle.com/asdasdasasdas/garbage-classification
 
 Example pictures for each category are shown below:
 
-1. cardboard
-![cardboard](https://github.com/harish988/AVENGERS/blob/master/Dataset/cardboard/cardboard1.jpg)
+1. cardboard<br>
+![cardboard](https://github.com/harish988/AVENGERS/blob/master/Dataset/cardboard/cardboard1.jpg)<br>
 
-2. glass
-![glass](https://github.com/harish988/AVENGERS/blob/master/Dataset/glass/glass1.jpg)
+2. glass<br>
+![glass](https://github.com/harish988/AVENGERS/blob/master/Dataset/glass/glass1.jpg)<br>
 
 3. metal
 ![metal](https://github.com/harish988/AVENGERS/blob/master/Dataset/metal/metal1.jpg)
@@ -20,4 +20,4 @@ Example pictures for each category are shown below:
 ![plastic](https://github.com/harish988/AVENGERS/blob/master/Dataset/plastic/plastic1.jpg)
 
 6. trash
-![trash](https://github.com/harish988/AVENGERS/tree/master/Dataset/trash)
+![trash](https://github.com/harish988/AVENGERS/blob/master/Dataset/trash/trash1.jpg)
